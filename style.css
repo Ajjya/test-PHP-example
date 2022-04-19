@@ -1,0 +1,34 @@
+.swiper-slide{
+  width: 300px;
+  border: 1px solid #ede9e9;
+  padding: 15px;
+  text-align: center;
+  border-radius: 4px;
+  -webkit-box-shadow: 8px 11px 24px -9px rgba(0,0,0,0.22);
+  -moz-box-shadow: 8px 11px 24px -9px rgba(0,0,0,0.22);
+  box-shadow: 8px 11px 24px -9px rgba(0,0,0,0.22);
+}
+
+.mainbar{
+  padding-top: 20px;
+}
+
+.firstname{
+  color: #3faaad;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.job{
+  font-weight: bold;
+  font-size: 0.8em;
+}
+
+.rowright{
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.swiper-wrapper{
+  height: auto;
+}
